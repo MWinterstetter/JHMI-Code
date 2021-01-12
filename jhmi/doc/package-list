@@ -1,0 +1,5 @@
+org.fraunhofer.jhmi.manager
+org.fraunhofer.jhmi.mqtt_client
+org.fraunhofer.jhmi.mqtt_clients.paho
+org.fraunhofer.jhmi.user_interface
+org.fraunhofer.jhmi.util
