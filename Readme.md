@@ -1,4 +1,4 @@
-## Java Home Mqtt Interface JHMI
+## Java Home MQTT Interface JHMI
 
 Diese Bibliothek ist ein Java Interface für Smart Home durch MQTT. Sie ist auf Paho als MQTT Client und Homey als Hub zur Kontrolle des Smart Homes ausgelegt. Mögliche Erweiterungen für weitere Clients oder Smart Home Hub Systeme sind aber mit in die Architektur einbezogen worden.
 
